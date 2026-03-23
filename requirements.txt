@@ -1,0 +1,13 @@
+datasets==4.0.0
+diffusers==0.33.1
+matplotlib==3.8.2
+numpy==2.4.3
+openai_clip==1.0.1
+opencv_contrib_python==4.11.0.86
+opencv_python==4.11.0.86
+Pillow==12.1.1
+pyldpc==0.7.9
+scipy==1.17.1
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.67.1
