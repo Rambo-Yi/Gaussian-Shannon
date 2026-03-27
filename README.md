@@ -21,8 +21,8 @@ This study aims to construct a high-precision watermarking framework for diffusi
 
 ```bash
 # Clone the repo
-git clone https://github.com/hhwaves/Gauss-Shannon.git
-cd Gauss-Shannon
+git clone https://github.com/Rambo-Yi/Gaussian-Shannon.git
+cd Gaussian-Shannon
 
 # Setup environment
 conda create -n gs_env python=3.12 -y
