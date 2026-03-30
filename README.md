@@ -15,6 +15,8 @@ Official PyTorch implementation of the paper: **"Gaussian Shannon"**, accepted a
 
 This study aims to construct a high-precision watermarking framework for diffusion models based on a communication mechanism. The generation process of diffusion models, DDIM Inversion, and external image attacks are uniformly modeled as a noisy communication process. A architecture is designed that balances "robust traceability" and "lossless information recovery." On one hand, redundancy design ensures identity recognition under strong attacks; on the other hand, precise decoding enables bit-exact recovery of metadata. Specifically, majority voting leverages spatial redundancy to combat severe local distortions in latent-space images, while error-correcting codes correct residual random errors, significantly improving the accuracy of watermark recovery.
 
+<a href="https://arxiv.org/abs/2603.26167">Paper Link</a>
+
 ## 🚀 Getting Started
 
 ### 🔧 Installation
